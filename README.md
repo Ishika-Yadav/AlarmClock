@@ -67,7 +67,7 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 
 <hr>
 
-> ## Checkout the Website [Web Application](https://saurabhdixit93.github.io/ClockAlaram/)
+> ## Checkout the Website [Web Application](https://ishika-yadav.github.io/AlarmClock/)
 
 
 
@@ -84,17 +84,16 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 # LINKS
 
  <!-- Page demo--> 
- <a href = "https://saurabhdixit93.github.io/ClockAlaram/" target="_blank" > <b>LIVE PRODUCT</b> </a>  &nbsp; <!-- repositary--> <a href = "https://saurabhdixit93.github.io/ClockAlaram/" target="_blank"> <b>CODE</b> </a> <br> 
+ <a href = "https:/Ishika-Yadav.github.io/ClockAlaram/" target="_blank" > <b>LIVE PRODUCT</b> </a>  &nbsp; <!-- repositary--> <a href = "https://Ishika-Yadav.github.io/ClockAlaram/" target="_blank"> <b>CODE</b> </a> <br> 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 
    ## 🐦 Follow Me:
 
-> [GitHub](github.com/Saurabhdixit93)
+> [GitHub](github.com/Ishika-Yadav)
 
 
-> [LinkedIn](https://www.linkedin.com/in/saurabhdixit93/)
 
 
 I hope you like the project. Thanks for reading :)
