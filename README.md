@@ -91,7 +91,7 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 
    ## 🐦 Follow Me:
 
-> [GitHub](github.com/Ishika-Yadav)
+> [GitHub](https://github.com/Ishika-Yadav)
 
 
 
